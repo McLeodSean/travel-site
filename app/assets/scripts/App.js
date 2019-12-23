@@ -1,1 +1,1 @@
-alert("The sky is falling");
+import '../styles/styles.css'
